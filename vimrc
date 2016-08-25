@@ -1,3 +1,7 @@
+" Pathogen setup
+" See documentation, etc at http://www.vim.org/scripts/script.php?script_id=2332
+execute pathogen#infect()
+
 set number
 au BufRead,BufNewFile *.md set filetype=markdown
 
