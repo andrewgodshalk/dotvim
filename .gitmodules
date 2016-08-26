@@ -4,3 +4,45 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/apprentice"]
+	path = bundle/apprentice
+	url = https://github.com/romainl/Apprentice.git
+[submodule "bundle/asu1dark"]
+	path = bundle/asu1dark
+	url = https://github.com/vim-scripts/asu1dark.vim.git
+[submodule "bundle/badwolf"]
+	path = bundle/badwolf
+	url = https://github.com/sjl/badwolf.git
+[submodule "bundle/borland"]
+	path = bundle/borland
+	url = https://github.com/vim-scripts/borland.vim.git
+[submodule "bundle/dracula-theme"]
+	path = bundle/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "bundle/ir_black_theme"]
+	path = bundle/ir_black_theme
+	url = https://github.com/twerth/ir_black.git
+[submodule "molokai_theme"]
+	path = molokai_theme
+	url = https://github.com/tomasr/molokai.git
+[submodule "bundle/molokai_theme"]
+	path = bundle/molokai_theme
+	url = https://github.com/tomasr/molokai.git
+[submodule "bundle/onedark_theme"]
+	path = bundle/onedark_theme
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "bundle/solarized_theme"]
+	path = bundle/solarized_theme
+	url = https://github.com/vim-scripts/Solarized.git
+[submodule "bundle/wombat_theme"]
+	path = bundle/wombat_theme
+	url = https://github.com/vim-scripts/Wombat.git
+[submodule "bundle/wombat256_theme"]
+	path = bundle/wombat256_theme
+	url = https://github.com/sheerun/vim-wombat-scheme.git
+[submodule "bundle/xoria256_theme"]
+	path = bundle/xoria256_theme
+	url = https://github.com/vim-scripts/xoria256.vim.git
+[submodule "bundle/zenburn"]
+	path = bundle/zenburn
+	url = https://github.com/jnurmine/Zenburn.git
