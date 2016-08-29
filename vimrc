@@ -1,8 +1,15 @@
 " Pathogen setup
-" See documentation, etc at http://www.vim.org/scripts/script.php?script_id=2332
+"   See documentation, etc at http://www.vim.org/scripts/script.php?script_id=2332
 execute pathogen#infect()
 
+" 2016-08-29 - Set folding
+set foldmethod=syntax
+"   See commands listed at http://vimdoc.sourceforge.net/htmldoc/fold.html
+
+" Activate line numbers
 set number
+
+" Lines to recognize .md files as markdown
 au BufRead,BufNewFile *.md set filetype=markdown
 
 " Search command modifiers
