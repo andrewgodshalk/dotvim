@@ -4,6 +4,7 @@ execute pathogen#infect()
 
 " 2016-08-29 - Set folding
 set foldmethod=syntax
+set foldlevelstart=99
 "   See commands listed at http://vimdoc.sourceforge.net/htmldoc/fold.html
 
 " Activate line numbers
