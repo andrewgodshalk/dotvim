@@ -46,3 +46,6 @@
 [submodule "bundle/zenburn"]
 	path = bundle/zenburn
 	url = https://github.com/jnurmine/Zenburn.git
+[submodule "/home/godshalk/.vim/bundle/vim-orbital"]
+	path = /home/godshalk/.vim/bundle/vim-orbital
+	url = https://github.com/fcpg/vim-orbital
